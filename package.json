@@ -1,7 +1,7 @@
 {
   "name": "spotify-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "spotifyApi",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
